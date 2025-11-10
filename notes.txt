@@ -1,0 +1,15 @@
+Introduction to JavaScript
+Fundamentals
+
+- high level, object oriented multi-paradigm programming language.
+- used to create dynamic effects in web development.
+- frameworks - tools that make writing large scale applications easier.
+- include react, angular, vue
+
+- can be used to build both front-end (browser) and back-end systems
+- can also be used to build mobile & desktop applications (ionic, react, )
+
+- various versions - 2015 - ES6/ES2015 was a huge update. ECMA Scirpt. Modern JS is
+everything after ES6.
+
+- ES5 can be important 
